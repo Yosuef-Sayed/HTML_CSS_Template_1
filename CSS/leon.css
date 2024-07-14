@@ -50,10 +50,7 @@ body {
     .container {
         width: 450px;
     }
-    section {
-        width: 470px;
-    }
-    footer {
+    html {
         width: 470px;
     }
 }
