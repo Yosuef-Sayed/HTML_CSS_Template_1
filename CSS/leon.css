@@ -50,6 +50,12 @@ body {
     .container {
         width: 450px;
     }
+    section {
+        width: 470px;
+    }
+    footer {
+        width: 470px;
+    }
 }
 
 /* Small Screen */
